@@ -34,7 +34,7 @@ The study leverages data from the UK Office for National Statistics (1990-2022) 
 - **`thewinddata2.R`** – R script for ARIMA forecasting
 - **`Renewable_Energy_AA.xlsx`** – Dataset used in the analysis
 - **`README.md`** – This file, explaining the project
-- **graph_screenshots/** – Folder containing key graphs from the dissertation
+- **graph_screenshots/** – Containing key graphs from the project
 
 ---
 
