@@ -34,3 +34,8 @@ The study leverages data from the **UK Office for National Statistics (1990-2022
 - **`README.md`** – This file, explaining the project  
 
 ---
+
+### 💡 How to Use This Project
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/renewable-energy-forecasting.git
