@@ -20,7 +20,7 @@ The study leverages data from the **UK Office for National Statistics (1990-2022
 
 ### Tools & Technologies Used
 - **Data Source:** UK Office for National Statistics (ONS)
-- **Programming:** R (tidyverse, forecast, ggplot2)
+- **Programming:** R (forecast, tseries, readxl, ggplot2)
 
 - **Time Series Analysis:** ARIMA (AutoRegressive Integrated Moving Average), ADF test, Autocorrelation
 
