@@ -19,23 +19,21 @@ The study leverages data from the **UK Office for National Statistics (1990-2022
 ---
 
 ### Tools & Technologies Used
-- **Programming:** Python, R (Pandas, NumPy, statsmodels, forecast package)  
-- **Time Series Analysis:** ARIMA (AutoRegressive Integrated Moving Average), ADF test, Autocorrelation  
-- **Visualization:** Power BI, Tableau, Matplotlib  
-- **Data Source:** UK Office for National Statistics (ONS)  
+- **Data Source:** UK Office for National Statistics (ONS)
+- **Programming:** R (tidyverse, forecast, ggplot2)
+
+- **Time Series Analysis:** ARIMA (AutoRegressive Integrated Moving Average), ADF test, Autocorrelation
+
+- **Visualization:** ggplot2, base R plotting
+
+- **Data Source:** UK Office for National Statistics (ONS)
 
 ---
 
 ### Files in This Repository
-- **`forecasting_model.py`** – Python script for ARIMA forecasting
-- **`energy_data.csv`** – Dataset used in the analysis
-- **`PowerBI_dashboard.pbix`** – Interactive Power BI report
-- **`presentation.pdf`** – Summary of project insights
+- **`thewinddata2.R`** – R script for ARIMA forecasting
+- **`Renewable_Energy_AA.xlsx`** – Dataset used in the analysis
 - **`README.md`** – This file, explaining the project  
 
 ---
 
-### 💡 How to Use This Project
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/renewable-energy-forecasting.git
