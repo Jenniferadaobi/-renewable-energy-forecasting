@@ -4,9 +4,9 @@ A time-series forecasting project analyzing solar photovoltaic and wind, wave, a
 # Renewable Energy Forecasting in the UK
 
 ### Overview
-This project applies **time-series forecasting (ARIMA modeling)** to predict the future contributions of **solar photovoltaic and wind, wave, and tidal energy** in the UK.
+This project applies time-series forecasting (ARIMA modeling) to predict the future contributions of solar photovoltaic and wind, wave, and tidal energy in the UK.
 
-The study leverages data from the **UK Office for National Statistics (1990-2022)** and uses **R/Python for statistical modeling, Power BI for data visualization, and Excel for exploratory analysis**.
+The study leverages data from the UK Office for National Statistics (1990-2022) and uses R for statistical modeling, ggplot2 for visualization, and Excel for data storage and preprocessing.
 
 ---
 
